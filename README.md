@@ -1,4 +1,5 @@
-### <h1>👋 Olá! Eu sou Nícolas Alves. Seja bem-vindo ao meu GitHub! </h1>
+### 
+<h1>👋 Olá! Eu sou Nícolas Alves. Seja bem-vindo ao meu GitHub!</h1>
 
 Eu sou um estudante empenhado em me tornar um desenvolvedor Full Stack e estou focado em aprender as últimas tendências de desenvolvimento web. Além disso, sempre busco maneiras de melhorar minhas habilidades, conhecimentos e capacidades, tanto dentro quanto fora do mundo da programação. Em meu tempo livre, gosto de jogar jogos, ler e praticar atividades físicas.
 
@@ -34,6 +35,6 @@ Se você tiver algum projeto interessante ou ideia em que possamos colaborar, n�
  <img align="center" src="https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 
-
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
   
   
