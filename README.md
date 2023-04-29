@@ -28,9 +28,6 @@ Se vocÃª tiver algum projeto interessante ou ideia em que possamos colaborar, nÃ
 <a href="https://instagram.com/inicolasalvess" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://twitter.com/inicolasalves" target"_blank">
- <img align="center" src="https://img.shields.io/badge/-twitter-05122A?style=flat&logo=twitter" alt="twitter">
-</a>
 <a href="mailto:contatoinicolasalves@gmail.com" target=_blank>
  <img align="center" src="https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
