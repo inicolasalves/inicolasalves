@@ -32,6 +32,5 @@ Se vocÃª tiver algum projeto interessante ou ideia em que possamos colaborar, nÃ
  <img align="center" src="https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
   
   
