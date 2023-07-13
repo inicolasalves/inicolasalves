@@ -1,35 +1,15 @@
-### 
-<h1>👋 Olá! Eu sou Nícolas Alves. Seja bem-vindo ao meu GitHub!</h1>
 
-Eu sou um estudante empenhado em me tornar um desenvolvedor Full Stack e estou focado em aprender as últimas tendências de desenvolvimento web. Além disso, sempre busco maneiras de melhorar minhas habilidades, conhecimentos e capacidades, tanto dentro quanto fora do mundo da programação. Em meu tempo livre, gosto de jogar jogos, ler e praticar atividades físicas.
-<br><br>
+<h1>Hi, I'm Nícolas! a frontend developer and designer</h1>
 
-<h2>📚 O que estou estudando?</h2>
+After achieving my frontend study goal in the near future, I want to learn backend basics. I also want to improve my basic design knowledge and my English.
 
+### Skills
 <div style="display: inline_block">
-<img align="center" alt="Nícolas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Nícolas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="Nícolas-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Nícolas-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-<img align="center" alt="Nícolas-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="center" alt="Nícolas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Nícolas-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="center" alt="Nícolas-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Nícolas-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="center" alt="Nícolas-Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-</div><br>
-
-<h2>📞 Contato</h2>
- 
-<a href="https://www.linkedin.com/in/inicolasalves" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/inicolasalvess" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="mailto:contatoinicolasalves@gmail.com" target=_blank>
- <img align="center" src="https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
-
-  
-  
+ <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+ <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+ <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+ <img align="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
+ <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+ <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+ <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+</div>
